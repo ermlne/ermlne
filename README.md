@@ -25,7 +25,7 @@ I like turning messy, real-world problems into working systems: from **autonomou
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Autonomous Delivery Agent (ASA)** | Hybrid autonomous agent for the Deliveroo multi-agent challenge — heuristic search, planning and coordination to deliver packages under uncertainty. | JavaScript · Node.js |
+| **[Autonomous Delivery Agent (ASA)](https://github.com/ermlne/asa-deliveroo-agent)** | Hybrid BDI + LLM autonomous multi-agent for the Deliveroo challenge — A\* + PDDL planning, LLM strategy, socket coordination. | JavaScript · Node.js |
 | **Book → Obsidian + Anki pipeline** | LLM pipeline that turns e-reader highlights into enriched Obsidian notes and Anki flashcards, with semantic vault search (embeddings) and an AI-news watcher. | Python |
 | **Intent & Entity Extraction** | NLP models for joint intent classification and slot filling on conversational data. | Python · PyTorch |
 | **CrossPoint e-ink reading mod** | Firmware modification for an ESP32 e-reader that improves the reading experience. | C++ · ESP32 |
