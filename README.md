@@ -27,8 +27,7 @@ I like turning messy, real-world problems into working systems: from **autonomou
 |---|---|---|
 | **[Autonomous Delivery Agent (ASA)](https://github.com/ermlne/asa-deliveroo-agent)** | Hybrid BDI + LLM autonomous multi-agent for the Deliveroo challenge — A\* + PDDL planning, LLM strategy, socket coordination. | JavaScript · Node.js |
 | **[Obsidian AI Pipeline](https://github.com/ermlne/obsidian-ai-pipeline)** | A "second brain" toolkit: semantic (embeddings) note search, an AI-news watcher on a systemd timer, and LLM skills that turn books into notes + Anki flashcards. | Python · LLM |
-| **Intent & Entity Extraction** | NLP models for joint intent classification and slot filling on conversational data. | Python · PyTorch |
-| **CrossPoint e-ink reading mod** | Firmware modification for an ESP32 e-reader that improves the reading experience. | C++ · ESP32 |
+| **[Conversational Clustering — BlaBlaClust](https://github.com/ai-design-2026-projects/vibe-coders)** | Full-stack ML system that clusters conversational text: FastAPI backend, embedding models, UMAP visualisation and evaluation against baselines. *(team project)* | Python · TypeScript |
 
 *More projects are being cleaned up and published — pinned repos below are kept up to date.*
 
