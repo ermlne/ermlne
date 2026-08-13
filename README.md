@@ -1,12 +1,12 @@
 # Hi, I'm Nilo Netti 👋
 
-**AI/ML & Software Engineer** in the making — Computer Science / AI Systems @ **University of Trento**.
+**MSc student in Artificial Intelligence Systems @ University of Trento** (BSc in Computer Engineering).
 
-I like turning messy, real-world problems into working systems: from **autonomous agents** and **NLP**, to **embedded firmware** and everyday **AI tooling** that actually saves me time.
+I build ML and NLP systems — multi-agent, semantic retrieval, LLM tooling — and I care about making AI more **interpretable, sustainable and socially useful**.
 
 - 🎓 Studying AI Systems at UniTN (Trento, Italy)
 - 🔭 Currently building LLM-assisted tooling for knowledge work (Obsidian + AI pipelines)
-- 🌱 Focus areas: multi-agent systems, NLP / LLMs, deep learning, semantic web (RDF/SPARQL)
+- 🌱 Focus: interpretable & trustworthy AI (XAI) · AI for social & environmental impact · knowledge graphs · decentralised systems
 - 💬 Open to internships and junior roles in AI/ML and software engineering
 - 📫 Reach me: **nilo.netti2003@gmail.com**
 
@@ -14,10 +14,10 @@ I like turning messy, real-world problems into working systems: from **autonomou
 
 ## 🛠️ Tech stack
 
-**Languages** — Python · JavaScript / TypeScript · Java · C / C++ · Rust · R · SQL
-**ML / AI** — PyTorch · scikit-learn · NLP · LLMs · multi-agent systems
-**Data & Semantic Web** — pandas · NumPy · RDF / SPARQL · Oxigraph
-**Systems & Tools** — Linux · Git · Docker · Node.js · React · PlatformIO / ESP32
+**Languages** — Python · JavaScript / TypeScript · Java · C / C++ · SQL
+**ML / AI** — PyTorch · scikit-learn · embeddings & semantic search (sentence-transformers, FAISS) · Transformers / LLMs · multi-agent systems
+**NLP & Knowledge** — NLP · retrieval / RAG · RDF / SPARQL · knowledge graphs (ESCO, Oxigraph)
+**Backend & Tools** — FastAPI · Node.js · Git · Linux · Docker
 
 ---
 
