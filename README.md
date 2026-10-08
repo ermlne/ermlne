@@ -28,6 +28,7 @@ I build ML and NLP systems — multi-agent, semantic retrieval, LLM tooling — 
 | **[Autonomous Delivery Agent (ASA)](https://github.com/ermlne/asa-deliveroo-agent)** | Hybrid BDI + LLM autonomous multi-agent for the Deliveroo challenge — A\* + PDDL planning, LLM strategy, socket coordination. | JavaScript · Node.js |
 | **[Obsidian AI Pipeline](https://github.com/ermlne/obsidian-ai-pipeline)** | A "second brain" toolkit: semantic (embeddings) note search, an AI-news watcher on a systemd timer, and LLM skills that turn books into notes + Anki flashcards. | Python · LLM |
 | **[Conversational Clustering — BlaBlaClust](https://github.com/ai-design-2026-projects/vibe-coders)** | Full-stack ML system that clusters conversational text: FastAPI backend, embedding models, UMAP visualisation and evaluation against baselines. *(team project)* | Python · TypeScript |
+| **[Compositional Image Retrieval (CLIP)](https://github.com/ermlne/compositional-image-retrieval-clip)** | Learned projection head on frozen CLIP for face retrieval with +/− text conditions — Recall@10 from 15.9% to 37.0% on CelebA, with paired-bootstrap evaluation. *(team project)* | Python · PyTorch |
 | **[Course → Skill Matching (TSM × ESCO)](https://github.com/ermlne/esco-course-matching)** | Maps training courses to the ESCO skills taxonomy with multilingual embeddings, FAISS retrieval and LLM re-ranking. Public AI Challenge with TSM. *(team project)* | Python · NLP |
 
 *Pinned repositories below are kept up to date.*
