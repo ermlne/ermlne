@@ -6,7 +6,8 @@ I build ML and NLP systems — multi-agent, semantic retrieval, LLM tooling — 
 
 - 🎓 Studying AI Systems at UniTN (Trento, Italy)
 - 🔭 Currently building LLM-assisted tooling for knowledge work (Obsidian + AI pipelines)
-- 🌱 Focus: interpretable & trustworthy AI (XAI) · AI for social & environmental impact · knowledge graphs · decentralised systems
+- 🌱 Focus: interpretable & trustworthy AI (XAI) · **adversarial audits of algorithms** · AI for social & environmental impact · knowledge graphs · decentralised systems
+- 🤝 Took part in the **Data & Innovation for Refugee Inclusion** hackathon (UNHCR × University of Trento, Oct 2026), working on how humans oversee and rely on algorithmic scores in cash-assistance programmes
 - 💬 Open to internships and junior roles in AI/ML and software engineering
 - 📫 Reach me: **nilo.netti2003@gmail.com**
 
